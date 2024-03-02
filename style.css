@@ -1,0 +1,9 @@
+:root {
+    color-scheme: dark;
+}
+
+*::before,
+*::after,
+* {
+    user-select: none;
+}
